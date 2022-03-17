@@ -8,7 +8,7 @@ budget += 30;
 console.log(budget >= 30 && budget <= 80);
 //3rd repo
 let grade = prompt("ادخل درجتك");
-switch ((grade = 100)) {
+switch (true) {
   case grade >= 90:
     console.log("لقد حصلت على امتياز 🥳");
     break;
